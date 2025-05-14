@@ -5,3 +5,4 @@ git_.md
 3. git config --global user.email "seu_email@example.com"
 4. `git status` -> Mostra os arquivos preparados ou não para o commit.
 5. `git add`. -> Adiciona o arquivo/pasta ao repositório locoal.
+6. `"git commit -m "descricao do commit"` ->Criando primeira versão  
